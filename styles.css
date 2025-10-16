@@ -1,0 +1,14 @@
+.container-fluid {
+  padding: 0;
+}
+.album {
+      background-color: black;
+      color: #ffff;
+    }
+
+h2 {
+      font-size: 18px;
+    }
+#street{
+  padding: 0!important;
+}
